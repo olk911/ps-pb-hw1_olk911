@@ -76,4 +76,4 @@ while i<4 :
     print(sl2)
     time.sleep(1)
     os.system('clear')
-    i = i + 1
+    i +=1
