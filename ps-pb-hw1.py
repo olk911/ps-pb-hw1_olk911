@@ -106,3 +106,5 @@ os.system('clear')
 #    time.sleep(1)
 #    os.system('clear')
 #    i +=1
+
+print('произвольная строка')
